@@ -39,11 +39,11 @@ I'm a passionate Information Technology student with expertise in backend develo
   </tr>
   <tr>
     <td align="center"><b>🖼️ AI Avatar Booth</b></td>
-    <td><a href="https://github.com/VasuBhimani/AI-Avatar-Booth">AI-Powered Avatar Generator</a> used by 200+ AWS event attendees, with REST APIs for processing and email delivery. <br/><i>Tech: Python, AWS RDS/EC2/S3, JavaScript, Flask</i></td>
+    <td><a href="https://github.com/VasuBhimani/AWS_Booth">AI-Powered Avatar Generator</a> used by 200+ AWS event attendees, with REST APIs for processing and email delivery. <br/><i>Tech: Python, AWS RDS/EC2/S3, JavaScript, Flask</i></td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ DevOps App Deployment</b></td>
-    <td><a href="https://github.com/VasuBhimani/App-Deployment-DevOps">Full-stack Flask application</a> with modern DevOps practices including Terraform automation, security scanning with Trivy, and SonarQube integration. <br/><i>Tech: Terraform, AWS EKS, Docker, GitHub Actions</i></td>
+    <td><a href="https://github.com/VasuBhimani/HOI-unlimited">Full-stack Flask application</a> with modern DevOps practices including Terraform automation, security scanning with Trivy, and SonarQube integration. <br/><i>Tech: Terraform, AWS EKS, Docker, GitHub Actions</i></td>
   </tr>
 </table>
 
